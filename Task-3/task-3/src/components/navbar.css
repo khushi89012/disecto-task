@@ -1,0 +1,60 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #1fd1f9;
+    background-image: linear-gradient(315deg, #1fd1f9 0%, #b621fe 74%);
+    margin-bottom: 10px;
+    
+
+
+}
+
+li {
+    float: left;
+
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #f9c5d1;
+    background-image: linear-gradient(315deg, #f9c5d1 0%, #9795ef 74%);
+}
+
+.navbar-div {
+
+    width: 1100px;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+
+}
+input{
+    width:290%;
+    height:40px;
+    border-radius:5px;
+    border:1px solid black;
+    text-align: center;
+   
+  
+}
+input:focus{
+   border:1px solid blue;
+}
+.product-detail {
+
+    width:30%;
+    margin: auto;
+}
+.product-detail Box{
+   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;;
+}

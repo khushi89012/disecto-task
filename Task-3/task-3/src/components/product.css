@@ -1,0 +1,13 @@
+.product-container{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+    margin-left:70px;
+   
+  margin-top: 20px;
+   
+}
+img{
+    width:400px;
+    height: 500px;
+}
