@@ -21,7 +21,9 @@ Node JS
 MongoDB
 ----------------------
 <h4>For Login as Admin </h4>
-  ![Landing Page](https://miro.medium.com/max/1400/1*UB-C6C9NNV3udcmNFoyOBg.png)
+![Capture](https://user-images.githubusercontent.com/95909861/174950779-05535807-b775-482b-95ad-e96c2db012eb.PNG)
+
+
 
 
 
