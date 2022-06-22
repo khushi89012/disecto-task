@@ -20,6 +20,7 @@ Node JS
 MongoDB
 ----------------------
 <h4>For Login as Admin </h4>
-![Capture](https://user-images.githubusercontent.com/95909861/174950043-0b09b445-7157-4dfb-a207-4d26501f4a9a.PNG)
+![Capture](https://user-images.githubusercontent.com/95909861/174950152-89beb6ad-e41a-4b2e-9fcd-acf23dfecc8c.PNG)
+
 
 
