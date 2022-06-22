@@ -5,7 +5,7 @@
 
 
 ------------------------------------------
-#####Tech Stack
+###Tech Stack
 <li>React.js</li>
 <li>Redux</li>
 <li>Node.js</li>
